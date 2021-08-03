@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/45560312/128073592-e23f6f44-575f-4701-a4b1-2740c7b25642.png)
+<img src="https://user-images.githubusercontent.com/45560312/128073592-e23f6f44-575f-4701-a4b1-2740c7b25642.png" width="50" height="50">
+<img src="https://user-images.githubusercontent.com/45560312/128073753-3c84a85e-8de4-4693-97ac-3cc462a18547.png" width="50" height="50">
 
 # Raspberry Pi - Python PYODBC docker image
 
