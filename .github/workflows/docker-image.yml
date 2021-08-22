@@ -24,4 +24,4 @@ jobs:
       run: docker build . --file Dockerfile --tag adgrules/pi-pyodbc:$(date +%s)
       
     - name: Docker Push
-      run: docker push adgrules/pi-pyodbc
+      run: docker push adgrules/pi-pyodbc:$(date +%s)
