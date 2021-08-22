@@ -9,7 +9,10 @@ This is an Docker Image to run your python application with the resources to con
 
 
 
-## Installation
+## Installation by Docker 
+````
+docker pull adgrules/pi-pyodbc:latest
+````
 
 #### Download
 ````
