@@ -12,6 +12,13 @@ This is an Docker Image to run your python application with the resources to con
 ## Installation by Docker 
 ````
 docker pull adgrules/pi-pyodbc:latest
+
+or 
+
+docker pull ghcr.io/adgsenpai/raspberrypi-pyodbc-docker-image:main
+
+
+
 sudo docker run adgrules/pi-pyodbc:latest
 ````
 
